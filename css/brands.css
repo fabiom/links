@@ -372,6 +372,16 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* Lattes */
+.button.button-lattes {
+  background-color: #315f9a;
+  color: #ffffff;
+}
+.button.button-lattes:hover,
+.button.button-lattes:focus {
+  filter: brightness(90%);
+}
+
 /* Letterboxd */
 .button.button-letterboxd {
   color: #ffffff;
@@ -412,6 +422,16 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* Nostr */
+.button.button-nostr {
+  color: #ffffff;
+  background-color: #1d2d2d;
+}
+.button.button-nostr:hover,
+.button.button-nostr:focus {
+  filter: brightness(90%);
+}
+
 /* Notion */
 .button.button-notion {
   color: #000000;
@@ -432,6 +452,16 @@ button:hover,
 }
 .button.button-onlyfans:hover,
 .button.button-onlyfans:focus {
+  filter: brightness(90%);
+}
+
+/* ORCID */
+.button.button-orcid {
+  color: #000000;
+  background-color: #a6ce39;
+}
+.button.button-orcid:hover,
+.button.button-orcid:focus {
   filter: brightness(90%);
 }
 
@@ -508,6 +538,16 @@ button:hover,
 }
 .button.button-reddit:hover,
 .button.button-reddit:focus {
+  filter: brightness(90%);
+}
+
+/* ResearchGate */
+.button.button-researchgate {
+  color: #ffffff;
+  background-color: #04d4ac;
+}
+.button.button-researchgate:hover,
+.button.button-researchgate:focus {
   filter: brightness(90%);
 }
 
