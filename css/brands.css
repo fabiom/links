@@ -42,7 +42,7 @@ button {
   line-height: 48px;
   letter-spacing: 0.1px;
   white-space: wrap;
-  border-radius: 8px;
+  border-radius: 6px;
   cursor: pointer;
 }
 button:hover,
@@ -755,7 +755,7 @@ button:hover,
 /* Website */
 .button.button-web {
   color: #ffffff;
-  background-color: #000000;
+  background-color: #0085ff;
 }
 .button.button-web:hover,
 .button.button-web:focus {
